@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/rosalika/employee_management/controller" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/rosalika/employee_management/entity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/rosalika/employee_management/repository" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/rosalika/employee_management/service" isTestSource="false" />
+    </content>
+  </component>
+</module>
